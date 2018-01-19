@@ -1,6 +1,9 @@
-Crashwalk
+Crashwalk for macOS
 =======
+I noticed that current version of crashwalk doesn't work properly in macOS. This fork runs on macOS properly. For more information please see the link below:
+https://github.com/bnagy/crashwalk/issues/11
 
+=======
 ## Documentation
 
 If you want to use `import "github.com/bnagy/crashwalk"` in your own Go code, you
